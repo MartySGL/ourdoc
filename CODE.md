@@ -18,6 +18,8 @@ block
             ...
 ```
 
+[:arrow_left: retourner au sommaire](https://github.com/ProjectPeer/ourdoc)
+
 ## Constantes
 Doivent être écrites en MAJUSCULE snake_case
 ```
@@ -26,6 +28,9 @@ FOO_BAR // <- ceci est une constante
 Foo_BAR // <- ceci n'est pas une constante
 foobar  // <- ceci n'est pas une constante
 ```
+
+[:arrow_left: retourner au sommaire](https://github.com/ProjectPeer/ourdoc)
+
 
 ## Variables
 Doivent être écrites en minuscule camelCase
@@ -36,6 +41,8 @@ foor_bar  // <- ceci n'est pas une variable
 Foobar    // <- ceci n'est pas une variable
 ```
 
+[:arrow_left: retourner au sommaire](https://github.com/ProjectPeer/ourdoc)
+
 ## Objets
 Doivent être écrits en CamelCase
 ```
@@ -44,6 +51,8 @@ FooBar  // <- ceci est une objet
 fooBar  // <- ceci n'est pas une objet
 Foo_Bar // <- ceci n'est pas une objet
 ```
+
+[:arrow_left: retourner au sommaire](https://github.com/ProjectPeer/ourdoc)
 
 ## Fonctions et méthodes
 Doivent être écrites en minuscule camelCase. Le block doit être espacé d'un espace.
@@ -57,6 +66,8 @@ function a() {
 }
 ```
 
+[:arrow_left: retourner au sommaire](https://github.com/ProjectPeer/ourdoc)
+
 ## Affectation et opérations
 Les opérateurs doivent toujours être espacés, sauf pour les parenthèses.
 ```
@@ -64,6 +75,8 @@ a = 1 // Bon
 a = b + (1 - 2) // Bon
 a = b+1 // Pas bon
 ```
+
+[:arrow_left: retourner au sommaire](https://github.com/ProjectPeer/ourdoc)
 
 ## Bloques et conditions ternaires
 Les bloques en ligne sont permis et recommandés que si ils font moins de 100 caractères (columns). Sinon, écrire les conditions en bloque. Les conditions ternaires s'appliquent à cette règle.
@@ -87,6 +100,8 @@ if(isTrue()) return true
 else return false
 ```
 
+[:arrow_left: retourner au sommaire](https://github.com/ProjectPeer/ourdoc)
+
 ## Commentaires
 Un commentaire sur une ligne doit pas exceder plus de 100 caractères (columns), sinon, un bloque de commentaire doi être préféré.
 ```
@@ -103,3 +118,5 @@ Ne jamais push du code commenté. Ce code doit être supprimé.
 ```
 // a = 1 <- doit être supprimé
 ```
+
+[:arrow_left: retourner au sommaire](https://github.com/ProjectPeer/ourdoc)

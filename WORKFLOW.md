@@ -42,8 +42,6 @@ Pour déclarer un bug un ticket doit être de la forme suivante
 ```
 URL : chemin/vers/le/bug (la page où le bug a été vu)
 
-BROWSER : Mozilla/Chrome/IE... - Mobile/PC
-
 REPRODUCTION : comment reproduire le bug, comment tu as été amené à le voir.
 
 DESCRIPTION : optionnel, tu peux donner des idées sur son origine ou apporter des précisions par exemple.

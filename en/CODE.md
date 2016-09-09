@@ -1,8 +1,8 @@
 # General
-Applicable à tous les langages
+For every language
 
 ## Indentation
-Quatre espaces. Attention à ne pas mettre de tab space, il s'agit bien de 4 espaces.
+Four spaces. Be careful to not use tab it's just four spaces.
 ```
 // Bien
 block

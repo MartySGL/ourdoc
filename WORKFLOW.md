@@ -40,7 +40,7 @@ Lorqu'un bug a été découvert, il faut laisser apparaître un écrit. Pour cel
 Pour déclarer un bug un ticket doit être de la forme suivante
 
 ```
-URL : chemin/vers/le/bug (la page où le bug a été vu)
+OÙ : expliquer sur quelle page le bug à été trouvé
 
 REPRODUCTION : comment reproduire le bug, comment tu as été amené à le voir.
 
